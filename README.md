@@ -1,5 +1,5 @@
 # Brette
-Brette's model simulation and linear response function calculation
+Model simulation and linear response function calculation
 To run the simulation, we used NEURON 7.3 with Python 2.6. 
 
 1. Compile the neuron model:
