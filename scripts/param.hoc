@@ -1,0 +1,14 @@
+std = 0.046
+tau = 5
+fr = 5
+codedirectory = "/home/chenfei/Code"
+posNa = 20
+rep = 50.0
+T_relax = 500.0
+threshold = -23
+T = 20000.0
+spthr = -35
+amp = 0.05
+model = "Brette"
+freq = 1000.0
+mean = 0.0185
